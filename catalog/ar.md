@@ -1,5 +1,5 @@
 <script>
-#ace_editor {
+body {
 direction:rtl; 
 text-align: right;
 }
