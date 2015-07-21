@@ -2,7 +2,7 @@
 	- About Us
 	- Architecture and Modules
 	- Supported Platforms and Programming Languages
-- Release Notes
+- Release Notes
 	- [Cocos2d-x v3.0 beta & v2.2, CocoStudio v1.2, Cocos2d-html5 v2.2.2 on 2014-01-07](../release-notes/summary-release-20140107.md)
 - Framework
 	- Getting Started
